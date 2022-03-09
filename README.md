@@ -5,5 +5,7 @@ Desenvolvemos então a aplicação Cook and Go que permite gerir e ver receitas,
 
 # authors
 [Andreia Portela](https://github.com/AndreiaPp)
+
 [Lucius Vinicius](https://github.com/luciusvinicius)
+
 [Tomé Carvalho](https://github.com/TomeCarvalho)
